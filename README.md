@@ -1,2 +1,2 @@
 # Projects
-Demo repo for learning
+Demo repo for created for learning git and github
